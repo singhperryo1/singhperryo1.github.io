@@ -1,0 +1,33 @@
+body
+{
+	background: url("https://ied.eu/wp-content/uploads/2015/07/Untitled-11.png") no-repeat center center fixed; 
+	background-size: cover; 
+	font-family: 'Indie Flower', cursive;
+}
+#footer
+{
+	position: absolute;
+	bottom: 0;
+	text-align: center;
+}
+h2
+{
+	text-align: center;
+	margin-left: 20px;
+}
+.miBtn
+{
+	text-align: center;
+	margin-top: 227px;
+	margin-right: 20px;
+}
+.btn-secondary
+{
+	background-color: white;
+	color: teal;
+	border-radius: 20px;
+}
+.btn-secondary:hover
+{
+	color: yellow;
+}
